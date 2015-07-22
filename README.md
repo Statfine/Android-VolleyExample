@@ -2,6 +2,7 @@
 VolleyAPI 图片 Demo
 
 代码附上了天气预报的接口作为例子，二次封装了请求的方法，
+   
     /*
      * method 方法
      * url 链接
@@ -11,6 +12,7 @@ VolleyAPI 图片 Demo
      * headers 头部添加
      * params 参数
      */
+
     public GsonRequest( int method, 
     					String url,
     					Class<T> objectClass, 
